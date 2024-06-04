@@ -1,0 +1,14 @@
+C:\Vinod\code\leetcode\solutions\Hackerrank\bin\Debug\net8.0\Hackerrank.exe
+C:\Vinod\code\leetcode\solutions\Hackerrank\bin\Debug\net8.0\Hackerrank.deps.json
+C:\Vinod\code\leetcode\solutions\Hackerrank\bin\Debug\net8.0\Hackerrank.runtimeconfig.json
+C:\Vinod\code\leetcode\solutions\Hackerrank\bin\Debug\net8.0\Hackerrank.dll
+C:\Vinod\code\leetcode\solutions\Hackerrank\bin\Debug\net8.0\Hackerrank.pdb
+C:\Vinod\code\leetcode\solutions\Hackerrank\obj\Debug\net8.0\Hackerrank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vinod\code\leetcode\solutions\Hackerrank\obj\Debug\net8.0\Hackerrank.AssemblyInfoInputs.cache
+C:\Vinod\code\leetcode\solutions\Hackerrank\obj\Debug\net8.0\Hackerrank.AssemblyInfo.cs
+C:\Vinod\code\leetcode\solutions\Hackerrank\obj\Debug\net8.0\Hackerrank.csproj.CoreCompileInputs.cache
+C:\Vinod\code\leetcode\solutions\Hackerrank\obj\Debug\net8.0\Hackerrank.dll
+C:\Vinod\code\leetcode\solutions\Hackerrank\obj\Debug\net8.0\refint\Hackerrank.dll
+C:\Vinod\code\leetcode\solutions\Hackerrank\obj\Debug\net8.0\Hackerrank.pdb
+C:\Vinod\code\leetcode\solutions\Hackerrank\obj\Debug\net8.0\Hackerrank.genruntimeconfig.cache
+C:\Vinod\code\leetcode\solutions\Hackerrank\obj\Debug\net8.0\ref\Hackerrank.dll
